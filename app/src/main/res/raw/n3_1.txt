@@ -1,0 +1,81 @@
+3001001/愛/ái/yêu, ái mộ
+3001002/暗/ám/tối, ám sát
+3001003/位/vị/vị trí
+3001004/偉/vĩ/vĩ đại
+3001005/易/dịch/mậu dịch
+3001006/違/vi/khác, vi phạm
+3001007/育/dục/giáo dục
+3001008/因/nhân/nguyên nhân
+3001009/引/dẫn/kéo
+3001010/泳/vịnh/bơi
+3001011/越/việt/việt vị
+3001012/園/viên/công viên
+3001013/演/diễn/diễn viên
+3001014/煙/yên/khói
+3001015/遠/viễn/viễn chinh
+3001016/押/áp/ấn
+3001017/横/hoành/chiều ngang, tung hoành
+3001018/王/vương/vương giả
+3001019/化/hóa/hóa học
+3001020/加/gia/gia công
+3001021/科/khoa/khoa học
+3001022/果/quả/hoa quả, thành quả
+3001023/過/quá/quá khứ, quá độ
+3001024/解/giải/giải quyết
+3001025/回/hồi/quay, vu hồi
+3001026/皆/giai/tất cả
+3001027/絵/hội/hội họa
+3001028/害/hại/độc hại
+3001029/格/cách/tư cách
+3001030/確/xác/chính xác
+3001031/覚/giác/cảm giác
+3001032/掛/quải/treo
+3001033/割/cát/vỡ
+3001034/活/hoạt/hoạt động
+3001035/寒/hàn/lạnh
+3001036/完/hoàn/hoàn thành
+3001037/官/quan/quan lại
+3001038/感/cảm/cảm giác
+3001039/慣/quán/tập quán
+3001040/観/quan/quan sát
+3001041/関/quan/hải quan, quan hệ
+3001042/顔/nhan/nhan sắc
+3001043/願/nguyện/tự nguyện
+3001044/危/nguy/nguy hiểm
+3001045/喜/hỉ/vui
+3001046/寄/kí/kí gửi, kí sinh
+3001047/幾/ki/hình học
+3001048/期/kì/thời kì
+3001049/機/cơ/cơ khí
+3001050/規/quy/quy tắc, quy luật
+3001051/記/kí/thư kí
+3001052/疑/nghi/nghi ngờ, nghi vấn
+3001053/議/nghị/nghị luận
+3001054/客/khách/hành khách
+3001055/吸/hấp/hô hấp
+3001056/求/cầu/yêu cầu
+3001057/球/cầu/địa cầu
+3001058/給/cấp/cung cấp
+3001059/居/cư/cư trú
+3001060/許/hứa/cho phép
+3001061/供/cung/cung cấp
+3001062/共/cộng/cộng sản
+3001063/恐/khủng/khủng bố
+3001064/局/cục/cục kế hoạch
+3001065/曲/khúc/ca khúc
+3001066/勤/cần/chuyên cần
+3001067/苦/khổ/khổ cực
+3001068/具/cụ/công cụ
+3001069/偶/ngẫu/ngẫu nhiên
+3001070/靴/ngoa/giầy
+3001071/君/quân/quân chủ
+3001072/係/hệ/quan hệ
+3001073/形/hình/hình thức
+3001074/景/cảnh/cảnh sắc
+3001075/経/kinh/kinh tế
+3001076/警/cảnh/cảnh sát
+3001077/迎/nghênh/hoan nghênh
+3001078/欠/khiếm/khiếm khuyết
+3001079/決/quyết/quyết định
+3001080/件/kiện/sự kiện
+3001081/権/quyền/chính quyền

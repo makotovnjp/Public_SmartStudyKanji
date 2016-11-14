@@ -1,0 +1,12 @@
+<!-- This menu is not used  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".SelectLevelActivity">
+
+    <item android:id="@+id/action_show_progress" android:title="@string/display_progress"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+    <item android:id="@+id/action_feedback" android:title="@string/action_feedback"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

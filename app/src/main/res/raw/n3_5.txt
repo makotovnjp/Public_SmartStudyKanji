@@ -1,0 +1,45 @@
+3005001/満/mãn/thỏa mãn
+3005001/未/vị/vị thành niên
+3005001/民/dân/quốc dân
+3005001/眠/miên/ngủ, thôi miên
+3005001/務/vụ/chức vụ, ,nhiệm vụ
+3005001/夢/mộng/mơ
+3005001/娘/nương/cô nương
+3005001/命/mệnh/sinh mệnh
+3005001/迷/mê/mê hoặc
+3005001/鳴/minh/hót
+3005001/面/diện/chính diện
+3005001/戻/lệ/quay lại
+3005001/役/dịch/chức vụ, nô dịch
+3005001/約/ước/giao ước
+3005001/薬/dược/thuốc
+3005001/優/ưu/ưu việt
+3005001/由/do/tự do
+3005001/遊/du/du lịch
+3005001/予/dự/dự đoán
+3005001/余/dư/thặng dư
+3005001/与/dữ/đưa cho
+3005001/容/dung/dung mạo
+3005001/様/dạng/đa dạng
+3005001/葉/diệp/lá
+3005001/要/yếu/chủ yếu
+3005001/陽/dương/thái dương
+3005001/欲/dục/dục vọng
+3005001/頼/lại/nhờ vả, ỷ lại
+3005001/落/lạc/rơi xuống
+3005001/利/lợi/phúc lợi
+3005001/流/lưu/lưu lượng
+3005001/留/lưu/lưu trữ
+3005001/両/lưỡng/lưỡng quốc
+3005001/良/lương/lương tâm
+3005001/類/loại/chủng loại
+3005001/例/lệ/ví dụ, tiền lệ
+3005001/冷/lãnh/lãnh đạm
+3005001/礼/lễ/lễ nghi
+3005001/列/liệt/la liệt
+3005001/連/liên/liên lạc
+3005001/路/lộ/đường
+3005001/労/lao/lao động
+3005001/老/lão/già
+3005001/論/luận/ngôn luận
+3005001/和/hòa/hòa bình

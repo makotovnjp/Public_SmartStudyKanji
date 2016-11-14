@@ -1,0 +1,81 @@
+4001001/悪/ác/hung ác
+4001002/安/an/an bình, an ổn
+4001003/以/dĩ/dĩ vãng
+4001004/意/ý/ý kiến
+4001005/医/y/y học, y viện
+4001006/員/viên/thành viên, nhân viên
+4001007/飲/ẩm/ẩm thực
+4001008/院/viện/học viện
+4001009/運/vận/vận chuyển
+4001010/映/ánh/phản ánh
+4001011/英/anh/anh hùng
+4001012/駅/dịch/nhà ga
+4001013/屋/ốc/địa ốc
+4001014/音/âm/âm thanh
+4001015/夏/hạ/mùa hè
+4001016/家/gia/gia đình
+4001017/歌/ca/ca khúc, ca dao
+4001018/花/hoa/bông hoa
+4001019/画/họa/họa sĩ
+4001020/会/hội/gặp gỡ,đại hội
+4001021/海/hải/biển, hải cảng
+4001022/界/giới/thế giới
+4001023/開/khai/mở ra, khai hoang
+4001024/楽/nhạc,lạc/an nhàn, âm nhạc
+4001025/漢/hán/chữ hán
+4001026/館/quán/hội quán
+4001027/帰/quy/trở về
+4001028/起/khởi/khởi nghiệp
+4001029/急/cấp/khẩn cấp
+4001030/究/cứu/nghiên cứu
+4001031/牛/ngưu/con trâu
+4001032/去/khứ/quá khứ
+4001033/魚/ngư/cá
+4001034/京/kink/kinh đô
+4001035/強/cường/cường quốc
+4001036/教/giáo/giáo dục
+4001037/業/nghiệp/công nghiệp
+4001038/近/cận/cận thị
+4001039/銀/ngân/ngân hàng
+4001040/空/không/không khí, hư không
+4001041/兄/huynh/phụ huynh
+4001042/計/kế/kế hoạch, kế toán
+4001043/建/kiến/kiến thiết
+4001044/犬/khuyển/con chó
+4001045/研/nghiên/mài,nghiên cứu
+4001046/験/nghiệm/kinh nghiệm
+4001047/元/nguyên/gốc
+4001048/言/ngôn/ngôn ngữ, ngôn luận
+4001049/古/cổ/cổ điển
+4001050/公/công/công cộng
+4001051/口/khẩu/miệng, nhân khẩu
+4001052/工/công/công tác, công nghiệp
+4001053/広/quảng/rộng, quảng đại
+4001054/考/khảo/suy nghĩ, khảo sát
+4001055/黒/hắc/màu đen, hắc ám
+4001056/作/tác/tác phẩm
+4001057/仕/sĩ/làm việc
+4001058/使/sử/sử dụng
+4001059/始/thủy/ban đầu, nguyên thủy
+4001060/姉/tỷ/chị gái
+4001061/思/tư/nghĩ, tâm tư
+4001062/止/chỉ/đình chỉ
+4001063/死/tử/chết
+4001064/私/tư/tư nhân
+4001065/紙/chỉ/giấy
+4001066/試/thí/thí nghiệm
+4001067/事/sự/sự việc
+4001068/字/tự/văn tự
+4001069/持/trì/cầm, duy trì
+4001070/自/tự/tự do, tự kỉ
+4001071/室/thất/giáo thất
+4001072/質/chất/vật chất
+4001073/写/tả/miêu tả
+4001074/社/xã/xã hội
+4001075/者/giả/học giả
+4001076/借/tá/mượn, tá điền
+4001077/主/chủ/chủ yếu
+4001078/手/thủ/tay, thủ đoạn
+4001079/秋/thu/mùa thu
+4001080/終/chung/chung kết
+4001081/習/tập/học tập

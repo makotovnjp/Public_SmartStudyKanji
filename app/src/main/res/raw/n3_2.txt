@@ -1,0 +1,80 @@
+3002001/険/hiểm/nguy hiểm
+3002001/原/nguyên/thảo nguyên
+3002001/現/hiện/xuất hiện
+3002001/限/hạn/kỳ hạn
+3002001/呼/hô/hô hoán
+3002001/互/hỗ/tương hỗ
+3002001/御/ngự/ngự uyển
+3002001/誤/ngộ/ngộ nhận
+3002001/交/giao/giao hảo
+3002001/候/hậu/mùa, khí hậu
+3002001/光/quang/ánh sáng
+3002001/向/hướng/hướng thượng
+3002001/好/hảo/hữu hảo
+3002001/幸/hạnh/hạnh phúc
+3002001/更/canh/canh tân
+3002001/構/cấu/cấu tạo
+3002001/港/cảng/hải cảng
+3002001/降/hàng/hạ xuống, đầu hàng
+3002001/号/hiệu/tín hiệu
+3002001/合/hợp/thích hợp
+3002001/刻/khắc/thời khắc
+3002001/告/cáo/báo cáo
+3002001/込/vào/đông đúc
+3002001/困/khốn/khốn cùng
+3002001/婚/hôn/kết hôn
+3002001/差/sai/sai số
+3002001/座/tọa/ngồi
+3002001/最/tối/tối đa
+3002001/妻/thê/thê tử
+3002001/才/tài/tài năng
+3002001/歳/tuế/tuổi
+3002001/済/tế/kinh tế
+3002001/際/tế/quốc tế
+3002001/在/tại/tồn tại
+3002001/罪/tội/tội phạm
+3002001/財/tài/tài sản
+3002001/昨/tạc/<hôm> qua
+3002001/察/sát/quan sát, giám sát
+3002001/殺/sát/sát hại
+3002001/雑/tạp/tạp chí
+3002001/参/tham/tham gia
+3002001/散/tán/phân tán
+3002001/産/sản/sản xuất
+3002001/賛/tán/tán đồng, tán thành
+3002001/残/tàn/tàn dư
+3002001/市/thị/thành thị
+3002001/師/sư/giáo sư
+3002001/指/chỉ/chỉ định
+3002001/支/chi/chi nhánh
+3002001/資/tư/tư bản
+3002001/歯/xỉ/răng
+3002001/似/tự/tương tự
+3002001/次/thứ/thứ nam
+3002001/治/trị/chính trị
+3002001/示/thị/biểu thị
+3002001/耳/nhĩ/tai
+3002001/辞/từ/từ vựng
+3002001/式/thức/hình thức
+3002001/識/thức/nhận thức
+3002001/失/thất/thất nghiệp
+3002001/実/thực/sự thực
+3002001/若/nhược/trẻ
+3002001/取/thủ/nhận, lấy
+3002001/守/thủ/bảo thủ
+3002001/種/chủng/chủng loại
+3002001/酒/tửu/rượu
+3002001/首/thủ/đầu, thủ tướng
+3002001/受/thụ/tiếp thụ
+3002001/収/thu/thu nhập
+3002001/宿/túc/tá túc
+3002001/術/thuật/kỹ thuật
+3002001/処/xứ/nơi, chỗ
+3002001/初/sơ/sơ cấp
+3002001/所/sở/trụ sở
+3002001/緒/tự/tình tự
+3002001/助/trợ/hỗ trợ
+3002001/除/trừ/khai trừ
+3002001/勝/thắng/thắng lợi
+3002001/商/thương/thương mại
+3002001/招/chiêu/chiêu đãi

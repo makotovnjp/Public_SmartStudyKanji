@@ -1,0 +1,79 @@
+5000001/一/nhất/một
+5000002/右/hữu/bên phải
+5000003/雨/vũ/mưa
+5000004/円/viên/viên mãn
+5000005/下/hạ/bên dưới
+5000006/何/hà/cái gì
+5000007/火/hỏa/lửa
+5000008/外/ngoại/ngoài
+5000009/学/học/học sinh, học thuyết
+5000010/間/gian/không gian
+5000011/気/khí/không khí, khí chất
+5000012/休/hưu/hưu trí, hưu nhàn
+5000013/金/kim/tiền
+5000014/九/cửu/9
+5000015/月/nguyệt/mặt trăng
+5000016/見/kiến/nhìn, ý kiến
+5000017/五/ngũ/5
+5000018/午/ngọ/chính ngọ
+5000019/後/hậu/sau, hậu quả, hậu sự
+5000020/語/ngữ/ngôn ngữ, từ ngữ
+5000021/校/giáo/trường học
+5000022/行/hành/thực hành, lữ hành
+5000023/高/cao/cao đẳng, cao thượng
+5000024/国/quốc/nước, quốc gia
+5000025/今/kim/bây giờ
+5000026/左/tả/bên trái
+5000027/三/tam/3
+5000028/山/sơn/núi
+5000029/四/tứ/4
+5000030/子/tử/tử tôn, phân tử
+5000031/時/thời/thời gian
+5000032/七/thất/7
+5000033/車/xa/xe cộ
+5000034/十/thập/10
+5000035/出/xuất/xuất hiện
+5000036/書/thư/thư đạo
+5000037/女/nữ/phụ nữ
+5000038/小/tiểu/nhỏ, ít
+5000039/上/thượng/thượng tầng
+5000040/食/thực/ẩm thực
+5000041/人/nhân/nhân vật
+5000042/水/thủy/thủy điện
+5000043/生/sinh/sinh sống, sinh sản
+5000044/西/tây/phương tây
+5000045/先/tiên/tiên sinh, tiên tiến
+5000046/千/thiên/nghìn
+5000047/川/xuyên/sông
+5000048/前/tiền/phía trước
+5000049/大/đại/to lớn
+5000050/男/nam/đàn ông, nam giới
+5000051/中/trung/trung tâm, ở giữa
+5000052/長/trường/dài, hiệu trưởng
+5000053/天/thiên/trời, thiên nhiên
+5000054/電/điện/điện lực
+5000055/土/thổ/đất, thổ địa
+5000056/東/đông/phía đông
+5000057/読/độc/đọc, độc giả
+5000058/南/nam/phía nam
+5000059/二/nhị/2
+5000060/日/nhật/mặt trời, ngày
+5000061/入/nhập/nhập cảnh, nhập môn
+5000062/年/niên/năm, niên đại
+5000063/白/bạch/màu trắng
+5000064/八/bát/8
+5000065/半/bán/một nửa
+5000066/百/bách/100
+5000067/父/phụ/cha, phụ tử
+5000068/聞/văn/nghe, tân văn
+5000069/母/mẫu/mẹ, phụ mẫu
+5000070/北/bắc/phương bắc
+5000071/本/bản/sách, cơ bản
+5000072/毎/mỗi/mỗi
+5000073/万/vạn/vạn
+5000074/名/danh/tên, danh tính
+5000075/木/mộc/gỗ
+5000076/友/hữu/bạn hữu
+5000077/来/lai/đến
+5000078/六/lục/6
+5000079/話/thoại/nói chuyện, đối thoại

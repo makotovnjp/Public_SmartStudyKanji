@@ -1,0 +1,80 @@
+3003001/消/tiêu/tiêu diệt
+3003001/笑/tiếu/cười
+3003001/乗/thừa/lên xe
+3003001/常/thường/bình thường, thông thường
+3003001/情/tình/tình cảm
+3003001/状/trạng/tình trạng, trạng thái
+3003001/職/chức/chức vụ
+3003001/信/tín/uy tín
+3003001/寝/tẩm/ngủ
+3003001/深/thâm/thâm sâu
+3003001/申/thân/xin
+3003001/神/thần/thần thánh
+3003001/進/tiến/thăng tiến
+3003001/吹/xuy/thổi
+3003001/数/số/số lượng
+3003001/制/chế/chế ngự
+3003001/性/tính/giới tính
+3003001/成/thành/hoàn thành
+3003001/政/chính/chính trị
+3003001/晴/tình/trong xanh
+3003001/精/tinh/tinh túy
+3003001/声/thanh/âm thanh
+3003001/静/tĩnh/bình tĩnh
+3003001/席/tịch/chủ tịch
+3003001/昔/tích/ngày xưa
+3003001/石/thạch/đá
+3003001/積/tích/tích phân
+3003001/責/trách/trách nhiệm
+3003001/折/chiết/gãy, chiết suất
+3003001/説/thuyết/học thuyết
+3003001/雪/tuyết/tuyết
+3003001/絶/tuyệt/đoạn tuyệt
+3003001/戦/chiến/chiến tranh
+3003001/洗/tẩy/rửa
+3003001/船/thuyền/thuyền
+3003001/選/tuyển/tuyển chọn
+3003001/然/nhiên/thiên nhiên
+3003001/全/toàn/toàn bộ
+3003001/祖/tổ/tổ tiên
+3003001/組/tổ/tổ chức
+3003001/想/tưởng/tư tưởng
+3003001/争/tranh/chiến tranh
+3003001/相/tương/tương hỗ
+3003001/窓/song/cửa sổ
+3003001/草/thảo/thảo mộc
+3003001/増/tăng/tăng tốc
+3003001/側/trắc/bên cạnh
+3003001/息/tức/con trai
+3003001/束/thúc/bó(hoa)
+3003001/速/tốc/tốc độ
+3003001/続/tục/kế tục
+3003001/存/tồn/tồn tại
+3003001/他/tha/khác
+3003001/太/thái/thái bình
+3003001/打/đả/đả kích
+3003001/対/đối/phản đối
+3003001/退/thối/thoái lui
+3003001/宅/trạch/nhà ở
+3003001/達/đạt/thành đạt
+3003001/単/đơn/đơn giản
+3003001/探/thám/thám  hiển
+3003001/断/đoạn/đoạn tuyệt
+3003001/段/đoạn/giai đoạn
+3003001/談/đàm/hội đàm
+3003001/値/trị/giá trị
+3003001/恥/sỉ/xấu hổ, sỉ nhục
+3003001/置/trí/bố trí
+3003001/遅/trì/muộn
+3003001/調/điều/điều tra
+3003001/頂/đỉnh/đỉnh đầu
+3003001/直/trực/chính trực
+3003001/追/truy/truy lùng
+3003001/痛/thống/đau, thống khổ
+3003001/定/định/định mệnh
+3003001/庭/đình/gia đình
+3003001/程/trình/trình độ
+3003001/適/thích/thích hợp
+3003001/点/điểm/điểm số
+3003001/伝/truyền/truyền đạt
+3003001/徒/đồ/đồ đệ

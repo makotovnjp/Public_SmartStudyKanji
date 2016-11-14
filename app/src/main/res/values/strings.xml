@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Smart Kanji</string>
+    <string name="known">Đã biết</string>
+    <string name="unknown">Chưa biết</string>
+    <string name="next">Tiếp theo</string>
+    <string name="check">Kiểm tra</string>
+    <string name="message_for_check">chữ cái đầu tiên của âm hán việt ?</string>
+    <string name="message_for_wrong_check">Bạn hãy chọn 1 câu trả lời</string>
+    <string name="message_for_right_answer">ｏ</string>
+    <string name="message_for_wrong_answer">ｘ</string>
+
+    <!-- Select Level Menu [CHAR LIMIT=20] -->
+    <string name="category_N1">N1</string>
+    <string name="category_N2">N2</string>
+    <string name="category_N3">N3</string>
+    <string name="category_N4">N4</string>
+    <string name="category_N5">N5</string>
+
+    <!-- Select Select Unit Menu [CHAR LIMIT=20] -->
+    <string name="select_unit">Lựa chọn</string>
+    <string name="unit1">Nhóm từ số 1</string>
+    <string name="unit2">Nhóm từ số 2</string>
+    <string name="unit3">Nhóm từ số 3</string>
+    <string name="unit4">Nhóm từ số 4</string>
+    <string name="unit5">Nhóm từ số 5</string>
+    <string name="unit6">Nhóm từ số 6</string>
+    <string name="unit7">Nhóm từ số 7</string>
+    <string name="unit8">Nhóm từ số 8</string>
+
+    <!-- Select Display Menu [CHAR LIMIT=20] -->
+    <string name="display_menu">Hán tự nên học</string>
+
+    <!-- Progress Menu [CHAR LIMIT=20] -->
+    <string name="display_progress">Đánh giá học tập</string>
+    <string name="N5_progress">Đánh giá N5</string>
+    <string name="N4_progress">Đánh giá N4</string>
+    <string name="N3_progress">Đánh giá N3</string>
+
+    <!-- FeedBack Menu [CHAR LIMIT=20] -->
+    <string name="feed_back_hint">Phản hồi của bạn</string>
+    <string name="feed_back_send">Gửi phản hồi</string>
+    <string name="feed_back_subject">Phản hồi về SmartStudyKanji App</string>
+    <string name="feed_back_mail">makotovnjp@gmail.com</string>
+
+    <!-- Options Menu [CHAR LIMIT=20] -->
+    <string name="action_settings">Settings</string>
+    <string name="action_feedback">Feedback</string>
+    <string name="title_activity_about_us">Giới thiệu</string>
+
+    <!-- Toast -->
+    <string name="complete_unit">Bạn đã hoàn thành nhóm  này \nMời bạn tiếp tục học nhóm từ khác</string>
+    <string name="wait_unit">Để học hiệu quả bạn hãy học lại nhóm từ này sau 2 tiếng nữa </string>
+
+</resources>
+

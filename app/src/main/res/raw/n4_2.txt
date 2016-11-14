@@ -1,0 +1,85 @@
+4002001/週/chu/tuần
+4002002/集/tập/tập hợp
+4002003/住/trú/cư trú
+4002004/重/trọng/trọng lượng
+4002005/春/xuân/mùa xuân
+4002006/少/thiểu/ít, thiểu số
+4002007/場/trường/hội trường
+4002008/色/sắc/màu sắc
+4002009/心/tâm/tâm lý
+4002010/新/tân/mới, cách tân
+4002011/真/chân/chân lý
+4002012/親/thân/thân thuộc
+4002013/図/đồ/bản đồ
+4002014/世/thế/thế giới
+4002015/正/chính/chính nghĩa
+4002016/青/thanh/màu xanh, thanh niên
+4002017/赤/xích/màu đỏ
+4002018/切/thiết/cắt, thiết thực
+4002019/早/tảo/sớm, tảo hôn
+4002020/走/tẩu/chạy
+4002021/送/tống/tiễn, tống biệt
+4002022/足/túc/chân, bổ túc
+4002023/族/tộc/gia tộc
+4002024/多/đa/đa số
+4002025/体/thể/hình thể, thân thể
+4002026/待/đãi/đợi, đối đãi
+4002027/貸/thải/cho mượn
+4002028/代/đại/đại biểu
+4002029/台/đài/lâu đài
+4002030/題/đề/chủ đề
+4002031/知/tri/tri thức, tri giác
+4002032/地/địa/thổ địa
+4002033/茶/trà/trà
+4002034/着/trước/mặc, đến
+4002035/昼/trú/buổi trưa
+4002036/注/chú/chú ý
+4002037/朝/triều/buổi sáng, triều đình
+4002038/町/đinh/khu phố
+4002039/鳥/điểu/chim chóc
+4002040/通/thông/thông qua, phổ thông
+4002041/弟/đệ/đệ tử
+4002042/店/điếm/cửa hàng
+4002043/転/chuyển/chuyển động
+4002044/田/điền/điền viên
+4002045/度/độ/mức độ
+4002046/冬/đông/mùa đông
+4002047/答/đáp/trả lời, giải đáp
+4002048/動/động/hoạt động, chuyển động
+4002049/同/đồng/đồng nhất
+4002050/堂/đường/thực đường
+4002051/道/đạo/con đường
+4002052/特/đặc/đặc biệt
+4002053/肉/nhục/thịt
+4002054/買/mãi/mua, khuyến mãi
+4002055/売/mại/bán, thương mại
+4002056/発/phát/xuất phát
+4002057/飯/phạn/cơm
+4002057/病/bệnh/bệnh nhân
+4002059/品/phẩm/sản phẩm
+4002060/不/bất/bất công
+4002061/風/phong/gió
+4002062/服/phục/trang phục
+4002063/物/vật/động vật
+4002064/文/văn/văn học
+4002065/別/biệt/biệt li, tạm biệt
+4002066/勉/miễn/chăm chỉ
+4002067/歩/bộ/đi bộ
+4002068/方/phương/phương hướng
+4002069/妹/muội/em gái
+4002070/味/vị/mùi vị, vị giác
+4002071/明/minh/quang minh
+4002072/目/mục/mắt, mục lục
+4002073/問/vấn/hỏi, vấn đáp
+4002074/夜/dạ/ban đêm
+4002075/野/dã/hoang dã
+4002076/有/hữu/có, sở hữu
+4002077/夕/tịch/tịch dương
+4002078/曜/diệu/ngày trong tuần
+4002079/洋/dương/đại dương
+4002080/用/dụng/sử dụng
+4002081/理/lí/lí luận
+4002082/立/lập/tự lập
+4002083/旅/lữ/lữ hành
+4002084/料/liệu/nguyên liệu
+4002085/力/lực/sức lực

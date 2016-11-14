@@ -1,0 +1,81 @@
+3004001/渡/độ/đi qua
+3004001/登/đăng/đăng kí
+3004001/途/đồ/tiền đồ
+3004001/都/đô/đô thành
+3004001/努/nỗ/nỗ lực
+3004001/怒/nộ/thịnh nộ
+3004001/倒/đảo/đảo lộn
+3004001/投/đầu/đầu tư
+3004001/盗/đạo/ăn trộm, đạo chích
+3004001/当/đương/chính đáng, đương thời
+3004001/等/đẳng/bình đẳng
+3004001/至/đáo/đến
+3004001/逃/đào/đào tẩu
+3004001/頭/đầu/đầu não
+3004001/働/động/lao động
+3004001/得/đắc/đắc lợi
+3004001/突/đột/xung đột
+3004001/内/nội/bên trong
+3004001/難/nan/nan giải
+3004001/任/nhiệm/nhiệm vụ
+3004001/認/nhận/xác nhận
+3004001/猫/miêu/con mèo
+3004001/熱/nhiệt/nhiệt tình
+3004001/念/niệm/ý niệm
+3004001/能/năng/năng lực
+3004001/破/phá/phá hoại
+3004001/馬/mã/con ngựa
+3004001/敗/bại/thất bại
+3004001/杯/bôi/cái chén
+3004001/背/bối/bối cảnh
+3004001/配/phối/phân phối
+3004001/箱/tương/cái hộp
+3004001/髪/phát/tóc
+3004001/抜/bạt/rút ra
+3004001/判/phán/phán quyết
+3004001/反/phản/phản đối
+3004001/犯/phạm/phạm nhân
+3004001/晩/vãn/buổi tối
+3004001/番/phiên/thứ tự
+3004001/否/phủ/phủ nhận
+3004001/彼/bỉ/anh ta
+3004001/悲/bi/sầu bi, bi quan
+3004001/疲/bì/mệt
+3004001/費/phí/học phí
+3004001/非/phi/phi nhân đạo
+3004001/飛/phi/bay, phi công
+3004001/備/bị/trang bị
+3004001/美/mĩ/mĩ nhân
+3004001/必/tất/tất yếu
+3004001/表/biểu/bảng biểu
+3004001/貧/bần/bần cùng
+3004001/付/phó/phụ thuộc
+3004001/夫/phu/chồng, trượng phu
+3004001/婦/phụ/vợ, phụ nữ
+3004001/富/phú/giàu có, phóng phú
+3004001/怖/bố/sợ, khủng bố
+3004001/浮/phù/nổi, phù du
+3004001/負/phụ/thua, phụ trách
+3004001/舞/vũ/khiêu vũ
+3004001/部/bộ/bộ môn, bộ phận
+3004001/福/phúc/hạnh phúc
+3004001/腹/phúc/cái bụng
+3004001/払/phất/trả tiền
+3004001/平/bình/hòa bình
+3004001/閉/bế/bế mạc
+3004001/米/mễ/gạo
+3004001/変/biến/thay đổi, biến thái
+3004001/返/phản/trả lại
+3004001/便/tiện/thuận tiện
+3004001/捕/bộ/bắt
+3004001/暮/mộ/chiêu mộ
+3004001/報/báo/báo cáo
+3004001/抱/bão/hoài bão
+3004001/放/phóng/giải phóng
+3004001/法/pháp/pháp luật
+3004001/訪/phóng/phóng sự
+3004001/亡/vong/diệt vong
+3004001/忘/vong/quên
+3004001/忙/mang/bận
+3004001/望/vọng/kì vọng
+3004001/末/mạt/kết thúc
